@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: dimgray;
+}
+#heading{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-family:monospace;
+    color: linen;
+    margin-bottom: 6em;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:monospace;
+    flex-direction: column;
+    font-size: x-large;
+    color: linen;
+}
+button{
+    font-size: x-large;
+    border-radius: 10px;
+    font-family:monospace;
+}
